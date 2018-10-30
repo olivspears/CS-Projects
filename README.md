@@ -1,2 +1,2 @@
 # CS-Projects
-School projects
+Projects from classes
