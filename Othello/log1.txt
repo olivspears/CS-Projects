@@ -1,0 +1,912 @@
+Starting Game!
+AI = White      Human = Black
+**********************
+Score:   Black - 2   White - 2
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   |   |   |   |   |   |
+3|   |   |   |   |   |   |   |   |
+4|   |   |   | o | x |   |   |   |
+5|   |   |   | x | o |   |   |   |
+6|   |   |   |   |   |   |   |   |
+7|   |   |   |   |   |   |   |   |
+8|   |   |   |   |   |   |   |   |
+**********************
+
+Player moved! Selected D3
+**********************
+Score:   Black - 4   White - 1
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   |   |   |   |   |   |
+3|   |   |   | x |   |   |   |   |
+4|   |   |   | x | x |   |   |   |
+5|   |   |   | x | o |   |   |   |
+6|   |   |   |   |   |   |   |   |
+7|   |   |   |   |   |   |   |   |
+8|   |   |   |   |   |   |   |   |
+**********************
+
+AI just moved! Selected C3
+**********************
+Score:   Black - 3   White - 3
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   |   |   |   |   |   |
+3|   |   | o | x |   |   |   |   |
+4|   |   |   | o | x |   |   |   |
+5|   |   |   | x | o |   |   |   |
+6|   |   |   |   |   |   |   |   |
+7|   |   |   |   |   |   |   |   |
+8|   |   |   |   |   |   |   |   |
+**********************
+
+Player moved! Selected E6
+**********************
+Score:   Black - 5   White - 2
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   |   |   |   |   |   |
+3|   |   | o | x |   |   |   |   |
+4|   |   |   | o | x |   |   |   |
+5|   |   |   | x | x |   |   |   |
+6|   |   |   |   | x |   |   |   |
+7|   |   |   |   |   |   |   |   |
+8|   |   |   |   |   |   |   |   |
+**********************
+
+AI just moved! Selected F6
+**********************
+Score:   Black - 4   White - 4
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   |   |   |   |   |   |
+3|   |   | o | x |   |   |   |   |
+4|   |   |   | o | x |   |   |   |
+5|   |   |   | x | o |   |   |   |
+6|   |   |   |   | x | o |   |   |
+7|   |   |   |   |   |   |   |   |
+8|   |   |   |   |   |   |   |   |
+**********************
+
+Player moved! Selected F5
+**********************
+Score:   Black - 6   White - 3
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   |   |   |   |   |   |
+3|   |   | o | x |   |   |   |   |
+4|   |   |   | o | x |   |   |   |
+5|   |   |   | x | x | x |   |   |
+6|   |   |   |   | x | o |   |   |
+7|   |   |   |   |   |   |   |   |
+8|   |   |   |   |   |   |   |   |
+**********************
+
+AI just moved! Selected E5
+**********************
+Score:   Black - 5   White - 5
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   |   |   |   |   |   |
+3|   |   | o | o | o |   |   |   |
+4|   |   |   | o | x |   |   |   |
+5|   |   |   | x | x | x |   |   |
+6|   |   |   |   | x | o |   |   |
+7|   |   |   |   |   |   |   |   |
+8|   |   |   |   |   |   |   |   |
+**********************
+
+Player moved! Selected F7
+**********************
+Score:   Black - 7   White - 4
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   |   |   |   |   |   |
+3|   |   | o | o | o |   |   |   |
+4|   |   |   | o | x |   |   |   |
+5|   |   |   | x | x | x |   |   |
+6|   |   |   |   | x | x |   |   |
+7|   |   |   |   |   | x |   |   |
+8|   |   |   |   |   |   |   |   |
+**********************
+
+AI just moved! Selected G7
+**********************
+Score:   Black - 5   White - 7
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   |   |   |   |   |   |
+3|   |   | o | o | o |   |   |   |
+4|   |   |   | o | x |   |   |   |
+5|   |   |   | x | o | x |   |   |
+6|   |   |   |   | x | o |   |   |
+7|   |   |   |   |   | x | o |   |
+8|   |   |   |   |   |   |   |   |
+**********************
+
+Player moved! Selected G6
+**********************
+Score:   Black - 7   White - 6
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   |   |   |   |   |   |
+3|   |   | o | o | o |   |   |   |
+4|   |   |   | o | x |   |   |   |
+5|   |   |   | x | o | x |   |   |
+6|   |   |   |   | x | x | x |   |
+7|   |   |   |   |   | x | o |   |
+8|   |   |   |   |   |   |   |   |
+**********************
+
+AI just moved! Selected C3
+**********************
+Score:   Black - 6   White - 8
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   |   |   |   |   |   |
+3|   |   | o | o | o |   |   |   |
+4|   |   |   | o | x |   |   |   |
+5|   |   | o | o | o | x |   |   |
+6|   |   |   |   | x | x | x |   |
+7|   |   |   |   |   | x | o |   |
+8|   |   |   |   |   |   |   |   |
+**********************
+
+Player moved! Selected H8
+**********************
+Score:   Black - 8   White - 7
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   |   |   |   |   |   |
+3|   |   | o | o | o |   |   |   |
+4|   |   |   | o | x |   |   |   |
+5|   |   | o | o | o | x |   |   |
+6|   |   |   |   | x | x | x |   |
+7|   |   |   |   |   | x | x |   |
+8|   |   |   |   |   |   |   | x |
+**********************
+
+AI just moved! Selected H8
+**********************
+Score:   Black - 5   White - 11
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   |   |   |   |   |   |
+3|   |   | o | o | o |   |   |   |
+4|   |   |   | o | o |   |   |   |
+5|   |   | o | o | o | o |   |   |
+6|   |   |   |   | x | x | o |   |
+7|   |   |   |   |   | x | x | o |
+8|   |   |   |   |   |   |   | x |
+**********************
+
+Player moved! Selected H6
+**********************
+Score:   Black - 8   White - 9
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   |   |   |   |   |   |
+3|   |   | o | o | o |   |   |   |
+4|   |   |   | o | o |   |   |   |
+5|   |   | o | o | o | o |   |   |
+6|   |   |   |   | x | x | x | x |
+7|   |   |   |   |   | x | x | x |
+8|   |   |   |   |   |   |   | x |
+**********************
+
+AI just moved! Selected D4
+**********************
+Score:   Black - 7   White - 11
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   |   |   |   |   |   |
+3|   |   | o | o | o |   |   |   |
+4|   |   |   | o | o |   |   |   |
+5|   |   | o | o | o | o |   |   |
+6|   |   |   |   | o | x | x | x |
+7|   |   |   | o |   | x | x | x |
+8|   |   |   |   |   |   |   | x |
+**********************
+
+Player moved! Selected C4
+**********************
+Score:   Black - 10   White - 9
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   |   |   |   |   |   |
+3|   |   | o | o | o |   |   |   |
+4|   |   | x | o | o |   |   |   |
+5|   |   | o | x | o | o |   |   |
+6|   |   |   |   | x | x | x | x |
+7|   |   |   | o |   | x | x | x |
+8|   |   |   |   |   |   |   | x |
+**********************
+
+AI just moved! Selected C3
+**********************
+Score:   Black - 9   White - 11
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   |   |   |   |   |   |
+3|   |   | o | o | o |   |   |   |
+4|   |   | x | o | o |   |   |   |
+5|   |   | o | o | o | o |   |   |
+6|   |   | o |   | x | x | x | x |
+7|   |   |   | o |   | x | x | x |
+8|   |   |   |   |   |   |   | x |
+**********************
+
+Player moved! Selected E2
+**********************
+Score:   Black - 14   White - 7
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   |   | x |   |   |   |
+3|   |   | o | x | x |   |   |   |
+4|   |   | x | o | x |   |   |   |
+5|   |   | o | o | x | o |   |   |
+6|   |   | o |   | x | x | x | x |
+7|   |   |   | o |   | x | x | x |
+8|   |   |   |   |   |   |   | x |
+**********************
+
+AI just moved! Selected D4
+**********************
+Score:   Black - 13   White - 9
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   | o | x |   |   |   |
+3|   |   | o | o | x |   |   |   |
+4|   |   | x | o | x |   |   |   |
+5|   |   | o | o | x | o |   |   |
+6|   |   | o |   | x | x | x | x |
+7|   |   |   | o |   | x | x | x |
+8|   |   |   |   |   |   |   | x |
+**********************
+
+Player moved! Selected B5
+**********************
+Score:   Black - 16   White - 7
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   | o | x |   |   |   |
+3|   |   | o | o | x |   |   |   |
+4|   |   | x | o | x |   |   |   |
+5|   | x | x | x | x | o |   |   |
+6|   |   | o |   | x | x | x | x |
+7|   |   |   | o |   | x | x | x |
+8|   |   |   |   |   |   |   | x |
+**********************
+
+AI just moved! Selected A1
+**********************
+Score:   Black - 12   White - 12
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   | o | x |   |   |   |
+3|   |   | o | o | x |   |   |   |
+4|   |   | x | o | x |   |   |   |
+5| o | o | o | o | o | o |   |   |
+6|   |   | o |   | x | x | x | x |
+7|   |   |   | o |   | x | x | x |
+8|   |   |   |   |   |   |   | x |
+**********************
+
+Player moved! Selected F4
+**********************
+Score:   Black - 14   White - 11
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   | o | x |   |   |   |
+3|   |   | o | o | x |   |   |   |
+4|   |   | x | o | x | x |   |   |
+5| o | o | o | o | o | x |   |   |
+6|   |   | o |   | x | x | x | x |
+7|   |   |   | o |   | x | x | x |
+8|   |   |   |   |   |   |   | x |
+**********************
+
+AI just moved! Selected G7
+**********************
+Score:   Black - 10   White - 16
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   | o | x |   |   |   |
+3|   |   | o | o | x |   |   |   |
+4|   |   | x | o | o | o | o |   |
+5| o | o | o | o | o | o |   |   |
+6|   |   | o |   | o | x | x | x |
+7|   |   |   | o |   | x | x | x |
+8|   |   |   |   |   |   |   | x |
+**********************
+
+Player moved! Selected H4
+**********************
+Score:   Black - 15   White - 12
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   | o | x |   |   |   |
+3|   |   | o | o | x |   |   |   |
+4|   |   | x | x | x | x | x | x |
+5| o | o | o | o | o | o |   |   |
+6|   |   | o |   | o | x | x | x |
+7|   |   |   | o |   | x | x | x |
+8|   |   |   |   |   |   |   | x |
+**********************
+
+AI just moved! Selected F6
+**********************
+Score:   Black - 12   White - 16
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   | o | x |   |   |   |
+3|   |   | o | o | o | o |   |   |
+4|   |   | x | x | o | o | x | x |
+5| o | o | o | o | o | o |   |   |
+6|   |   | o |   | o | x | x | x |
+7|   |   |   | o |   | x | x | x |
+8|   |   |   |   |   |   |   | x |
+**********************
+
+Player moved! Selected F2
+**********************
+Score:   Black - 17   White - 12
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   | o | x | x |   |   |
+3|   |   | o | o | x | x |   |   |
+4|   |   | x | x | o | x | x | x |
+5| o | o | o | o | o | x |   |   |
+6|   |   | o |   | o | x | x | x |
+7|   |   |   | o |   | x | x | x |
+8|   |   |   |   |   |   |   | x |
+**********************
+
+AI just moved! Selected G7
+**********************
+Score:   Black - 14   White - 16
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   |   | o | x | x |   |   |
+3|   |   | o | o | o | o | o |   |
+4|   |   | x | x | o | o | x | x |
+5| o | o | o | o | o | x |   |   |
+6|   |   | o |   | o | x | x | x |
+7|   |   |   | o |   | x | x | x |
+8|   |   |   |   |   |   |   | x |
+**********************
+
+Player moved! Selected C2
+**********************
+Score:   Black - 19   White - 12
+ | A | B | C | D | E | F | G | H |
+1|   |   |   |   |   |   |   |   |
+2|   |   | x | x | x | x |   |   |
+3|   |   | x | x | o | o | o |   |
+4|   |   | x | x | x | o | x | x |
+5| o | o | o | o | o | x |   |   |
+6|   |   | o |   | o | x | x | x |
+7|   |   |   | o |   | x | x | x |
+8|   |   |   |   |   |   |   | x |
+**********************
+
+AI just moved! Selected C3
+**********************
+Score:   Black - 15   White - 17
+ | A | B | C | D | E | F | G | H |
+1|   |   | o |   |   |   |   |   |
+2|   |   | o | o | x | x |   |   |
+3|   |   | o | x | o | o | o |   |
+4|   |   | o | x | x | o | x | x |
+5| o | o | o | o | o | x |   |   |
+6|   |   | o |   | o | x | x | x |
+7|   |   |   | o |   | x | x | x |
+8|   |   |   |   |   |   |   | x |
+**********************
+
+Player moved! Selected H3
+**********************
+Score:   Black - 19   White - 14
+ | A | B | C | D | E | F | G | H |
+1|   |   | o |   |   |   |   |   |
+2|   |   | o | o | x | x |   |   |
+3|   |   | o | x | x | x | x | x |
+4|   |   | o | x | x | o | x | x |
+5| o | o | o | o | o | x |   |   |
+6|   |   | o |   | o | x | x | x |
+7|   |   |   | o |   | x | x | x |
+8|   |   |   |   |   |   |   | x |
+**********************
+
+AI just moved! Selected F6
+**********************
+Score:   Black - 16   White - 18
+ | A | B | C | D | E | F | G | H |
+1|   |   | o |   |   |   |   |   |
+2|   |   | o | o | x | x |   |   |
+3|   |   | o | x | x | x | x | x |
+4|   |   | o | x | x | o | x | x |
+5| o | o | o | o | o | o |   |   |
+6|   |   | o |   | o | o | x | x |
+7|   |   |   | o |   | o | x | x |
+8|   |   |   |   |   | o |   | x |
+**********************
+
+Player moved! Selected C8
+**********************
+Score:   Black - 20   White - 15
+ | A | B | C | D | E | F | G | H |
+1|   |   | o |   |   |   |   |   |
+2|   |   | o | o | x | x |   |   |
+3|   |   | o | x | x | x | x | x |
+4|   |   | o | x | x | o | x | x |
+5| o | o | o | o | o | x |   |   |
+6|   |   | o |   | x | o | x | x |
+7|   |   |   | x |   | o | x | x |
+8|   |   | x |   |   | o |   | x |
+**********************
+
+AI just moved! Selected G7
+**********************
+Score:   Black - 16   White - 20
+ | A | B | C | D | E | F | G | H |
+1|   |   | o |   |   |   |   |   |
+2|   |   | o | o | o | o | o |   |
+3|   |   | o | x | x | o | x | x |
+4|   |   | o | x | o | o | x | x |
+5| o | o | o | o | o | x |   |   |
+6|   |   | o |   | x | o | x | x |
+7|   |   |   | x |   | o | x | x |
+8|   |   | x |   |   | o |   | x |
+**********************
+
+Player moved! Selected F1
+**********************
+Score:   Black - 22   White - 15
+ | A | B | C | D | E | F | G | H |
+1|   |   | o |   |   | x |   |   |
+2|   |   | o | o | x | x | x |   |
+3|   |   | o | x | x | x | x | x |
+4|   |   | o | x | o | x | x | x |
+5| o | o | o | o | o | x |   |   |
+6|   |   | o |   | x | o | x | x |
+7|   |   |   | x |   | o | x | x |
+8|   |   | x |   |   | o |   | x |
+**********************
+
+AI just moved! Selected H8
+**********************
+Score:   Black - 20   White - 18
+ | A | B | C | D | E | F | G | H |
+1|   |   | o |   |   | x |   | o |
+2|   |   | o | o | x | x | o |   |
+3|   |   | o | x | x | o | x | x |
+4|   |   | o | x | o | x | x | x |
+5| o | o | o | o | o | x |   |   |
+6|   |   | o |   | x | o | x | x |
+7|   |   |   | x |   | o | x | x |
+8|   |   | x |   |   | o |   | x |
+**********************
+
+Player moved! Selected B2
+**********************
+Score:   Black - 24   White - 15
+ | A | B | C | D | E | F | G | H |
+1|   |   | o |   |   | x |   | o |
+2|   | x | x | x | x | x | o |   |
+3|   |   | x | x | x | o | x | x |
+4|   |   | o | x | o | x | x | x |
+5| o | o | o | o | o | x |   |   |
+6|   |   | o |   | x | o | x | x |
+7|   |   |   | x |   | o | x | x |
+8|   |   | x |   |   | o |   | x |
+**********************
+
+AI just moved! Selected A1
+**********************
+Score:   Black - 21   White - 19
+ | A | B | C | D | E | F | G | H |
+1| o |   | o |   |   | x |   | o |
+2|   | o | x | x | x | x | o |   |
+3|   |   | o | x | x | o | x | x |
+4|   |   | o | o | o | x | x | x |
+5| o | o | o | o | o | x |   |   |
+6|   |   | o |   | x | o | x | x |
+7|   |   |   | x |   | o | x | x |
+8|   |   | x |   |   | o |   | x |
+**********************
+
+Player moved! Selected D6
+**********************
+Score:   Black - 25   White - 16
+ | A | B | C | D | E | F | G | H |
+1| o |   | o |   |   | x |   | o |
+2|   | o | x | x | x | x | o |   |
+3|   |   | o | x | x | o | x | x |
+4|   |   | o | x | o | x | x | x |
+5| o | o | o | x | x | x |   |   |
+6|   |   | o | x | x | o | x | x |
+7|   |   |   | x |   | o | x | x |
+8|   |   | x |   |   | o |   | x |
+**********************
+
+AI just moved! Selected E5
+**********************
+Score:   Black - 24   White - 18
+ | A | B | C | D | E | F | G | H |
+1| o |   | o |   |   | x |   | o |
+2|   | o | x | x | x | x | o |   |
+3|   |   | o | x | x | o | x | x |
+4|   |   | o | x | o | x | x | x |
+5| o | o | o | x | x | x |   |   |
+6|   |   | o | x | x | o | x | x |
+7|   |   |   | o |   | o | x | x |
+8|   |   | x |   | o | o |   | x |
+**********************
+
+Player moved! Selected C7
+**********************
+Score:   Black - 29   White - 14
+ | A | B | C | D | E | F | G | H |
+1| o |   | o |   |   | x |   | o |
+2|   | o | x | x | x | x | o |   |
+3|   |   | x | x | x | o | x | x |
+4|   |   | x | x | o | x | x | x |
+5| o | o | x | x | x | x |   |   |
+6|   |   | x | x | x | o | x | x |
+7|   |   | x | o |   | o | x | x |
+8|   |   | x |   | o | o |   | x |
+**********************
+
+AI just moved! Selected E5
+**********************
+Score:   Black - 27   White - 17
+ | A | B | C | D | E | F | G | H |
+1| o |   | o |   | o | x |   | o |
+2|   | o | x | x | o | x | o |   |
+3|   |   | x | x | o | o | x | x |
+4|   |   | x | x | o | x | x | x |
+5| o | o | x | x | x | x |   |   |
+6|   |   | x | x | x | o | x | x |
+7|   |   | x | o |   | o | x | x |
+8|   |   | x |   | o | o |   | x |
+**********************
+
+Player moved! Selected A2
+**********************
+Score:   Black - 29   White - 16
+ | A | B | C | D | E | F | G | H |
+1| o |   | o |   | o | x |   | o |
+2| x | x | x | x | o | x | o |   |
+3|   |   | x | x | o | o | x | x |
+4|   |   | x | x | o | x | x | x |
+5| o | o | x | x | x | x |   |   |
+6|   |   | x | x | x | o | x | x |
+7|   |   | x | o |   | o | x | x |
+8|   |   | x |   | o | o |   | x |
+**********************
+
+AI just moved! Selected D4
+**********************
+Score:   Black - 24   White - 22
+ | A | B | C | D | E | F | G | H |
+1| o |   | o | o | o | x |   | o |
+2| x | x | x | o | o | x | o |   |
+3|   |   | x | o | o | o | x | x |
+4|   |   | x | o | o | x | x | x |
+5| o | o | x | o | x | x |   |   |
+6|   |   | x | o | x | o | x | x |
+7|   |   | x | o |   | o | x | x |
+8|   |   | x |   | o | o |   | x |
+**********************
+
+Player moved! Selected H2
+**********************
+Score:   Black - 26   White - 21
+ | A | B | C | D | E | F | G | H |
+1| o |   | o | o | o | x |   | o |
+2| x | x | x | o | o | x | x | x |
+3|   |   | x | o | o | o | x | x |
+4|   |   | x | o | o | x | x | x |
+5| o | o | x | o | x | x |   |   |
+6|   |   | x | o | x | o | x | x |
+7|   |   | x | o |   | o | x | x |
+8|   |   | x |   | o | o |   | x |
+**********************
+
+AI just moved! Selected A1
+**********************
+Score:   Black - 24   White - 24
+ | A | B | C | D | E | F | G | H |
+1| o |   | o | o | o | x |   | o |
+2| o | o | x | o | o | x | x | x |
+3| o |   | x | o | o | o | x | x |
+4|   |   | x | o | o | x | x | x |
+5| o | o | x | o | x | x |   |   |
+6|   |   | x | o | x | o | x | x |
+7|   |   | x | o |   | o | x | x |
+8|   |   | x |   | o | o |   | x |
+**********************
+
+Player moved! Selected B1
+**********************
+Score:   Black - 28   White - 21
+ | A | B | C | D | E | F | G | H |
+1| o | x | x | x | x | x |   | o |
+2| o | o | x | o | o | x | x | x |
+3| o |   | x | o | o | o | x | x |
+4|   |   | x | o | o | x | x | x |
+5| o | o | x | o | x | x |   |   |
+6|   |   | x | o | x | o | x | x |
+7|   |   | x | o |   | o | x | x |
+8|   |   | x |   | o | o |   | x |
+**********************
+
+AI just moved! Selected E5
+**********************
+Score:   Black - 26   White - 24
+ | A | B | C | D | E | F | G | H |
+1| o | x | x | x | x | x |   | o |
+2| o | o | x | o | o | x | x | x |
+3| o |   | x | o | o | o | x | x |
+4|   |   | x | o | o | x | x | x |
+5| o | o | x | o | o | x |   |   |
+6|   |   | x | o | o | o | x | x |
+7|   |   | x | o | o | o | x | x |
+8|   |   | x |   | o | o |   | x |
+**********************
+
+Player moved! Selected G8
+**********************
+Score:   Black - 30   White - 21
+ | A | B | C | D | E | F | G | H |
+1| o | x | x | x | x | x |   | o |
+2| o | o | x | o | o | x | x | x |
+3| o |   | x | o | o | o | x | x |
+4|   |   | x | o | o | x | x | x |
+5| o | o | x | x | o | x |   |   |
+6|   |   | x | o | x | o | x | x |
+7|   |   | x | o | o | x | x | x |
+8|   |   | x |   | o | o | x | x |
+**********************
+
+AI just moved! Selected G7
+**********************
+Score:   Black - 24   White - 28
+ | A | B | C | D | E | F | G | H |
+1| o | o | o | o | o | o | o | o |
+2| o | o | x | o | o | o | x | x |
+3| o |   | x | o | o | o | x | x |
+4|   |   | x | o | o | x | x | x |
+5| o | o | x | x | o | x |   |   |
+6|   |   | x | o | x | o | x | x |
+7|   |   | x | o | o | x | x | x |
+8|   |   | x |   | o | o | x | x |
+**********************
+
+Player moved! Selected A6
+**********************
+Score:   Black - 26   White - 27
+ | A | B | C | D | E | F | G | H |
+1| o | o | o | o | o | o | o | o |
+2| o | o | x | o | o | o | x | x |
+3| o |   | x | o | o | o | x | x |
+4|   |   | x | o | o | x | x | x |
+5| o | x | x | x | o | x |   |   |
+6| x |   | x | o | x | o | x | x |
+7|   |   | x | o | o | x | x | x |
+8|   |   | x |   | o | o | x | x |
+**********************
+
+AI just moved! Selected A1
+**********************
+Score:   Black - 24   White - 30
+ | A | B | C | D | E | F | G | H |
+1| o | o | o | o | o | o | o | o |
+2| o | o | x | o | o | o | x | x |
+3| o |   | x | o | o | o | x | x |
+4| o |   | x | o | o | x | x | x |
+5| o | o | x | x | o | x |   |   |
+6| x |   | o | o | x | o | x | x |
+7|   |   | x | o | o | x | x | x |
+8|   |   | x |   | o | o | x | x |
+**********************
+
+Player moved! Selected B6
+**********************
+Score:   Black - 27   White - 28
+ | A | B | C | D | E | F | G | H |
+1| o | o | o | o | o | o | o | o |
+2| o | o | x | o | o | o | x | x |
+3| o |   | x | o | o | o | x | x |
+4| o |   | x | o | o | x | x | x |
+5| o | o | x | x | o | x |   |   |
+6| x | x | x | x | x | o | x | x |
+7|   |   | x | o | o | x | x | x |
+8|   |   | x |   | o | o | x | x |
+**********************
+
+AI just moved! Selected D4
+**********************
+Score:   Black - 25   White - 31
+ | A | B | C | D | E | F | G | H |
+1| o | o | o | o | o | o | o | o |
+2| o | o | x | o | o | o | x | x |
+3| o |   | x | o | o | o | x | x |
+4| o |   | x | o | o | x | x | x |
+5| o | o | x | x | o | x |   |   |
+6| x | o | x | x | x | o | x | x |
+7|   |   | o | o | o | x | x | x |
+8|   |   | x | o | o | o | x | x |
+**********************
+
+Player moved! Selected A7
+**********************
+Score:   Black - 27   White - 30
+ | A | B | C | D | E | F | G | H |
+1| o | o | o | o | o | o | o | o |
+2| o | o | x | o | o | o | x | x |
+3| o |   | x | o | o | o | x | x |
+4| o |   | x | o | o | x | x | x |
+5| o | o | x | x | o | x |   |   |
+6| x | x | x | x | x | o | x | x |
+7| x |   | o | o | o | x | x | x |
+8|   |   | x | o | o | o | x | x |
+**********************
+
+AI just moved! Selected A1
+**********************
+Score:   Black - 25   White - 33
+ | A | B | C | D | E | F | G | H |
+1| o | o | o | o | o | o | o | o |
+2| o | o | x | o | o | o | x | x |
+3| o |   | x | o | o | o | x | x |
+4| o |   | x | o | o | x | x | x |
+5| o | o | x | x | o | x |   |   |
+6| o | x | x | x | x | o | x | x |
+7| o |   | o | o | o | x | x | x |
+8| o |   | x | o | o | o | x | x |
+**********************
+
+Player moved! Selected B7
+**********************
+Score:   Black - 29   White - 30
+ | A | B | C | D | E | F | G | H |
+1| o | o | o | o | o | o | o | o |
+2| o | o | x | o | o | o | x | x |
+3| o |   | x | o | o | o | x | x |
+4| o |   | x | o | o | x | x | x |
+5| o | o | x | x | o | x |   |   |
+6| o | x | x | x | x | o | x | x |
+7| o | x | x | x | x | x | x | x |
+8| o |   | x | o | o | o | x | x |
+**********************
+
+AI just moved! Selected B2
+**********************
+Score:   Black - 24   White - 36
+ | A | B | C | D | E | F | G | H |
+1| o | o | o | o | o | o | o | o |
+2| o | o | x | o | o | o | x | x |
+3| o |   | x | o | o | o | x | x |
+4| o |   | x | o | o | x | x | x |
+5| o | o | x | x | o | x |   |   |
+6| o | o | x | o | x | o | x | x |
+7| o | o | o | x | x | x | x | x |
+8| o | o | o | o | o | o | x | x |
+**********************
+
+Player moved! Selected G5
+**********************
+Score:   Black - 26   White - 35
+ | A | B | C | D | E | F | G | H |
+1| o | o | o | o | o | o | o | o |
+2| o | o | x | o | o | o | x | x |
+3| o |   | x | o | o | o | x | x |
+4| o |   | x | o | o | x | x | x |
+5| o | o | x | x | o | x | x |   |
+6| o | o | x | o | x | x | x | x |
+7| o | o | o | x | x | x | x | x |
+8| o | o | o | o | o | o | x | x |
+**********************
+
+AI just moved! Selected B2
+**********************
+Score:   Black - 24   White - 38
+ | A | B | C | D | E | F | G | H |
+1| o | o | o | o | o | o | o | o |
+2| o | o | o | o | o | o | x | x |
+3| o | o | o | o | o | o | x | x |
+4| o |   | x | o | o | x | x | x |
+5| o | o | x | x | o | x | x |   |
+6| o | o | x | o | x | x | x | x |
+7| o | o | o | x | x | x | x | x |
+8| o | o | o | o | o | o | x | x |
+**********************
+
+No valid moves for player :( Skipped turn
+**********************
+Score:   Black - 24   White - 38
+ | A | B | C | D | E | F | G | H |
+1| o | o | o | o | o | o | o | o |
+2| o | o | o | o | o | o | x | x |
+3| o | o | o | o | o | o | x | x |
+4| o |   | x | o | o | x | x | x |
+5| o | o | x | x | o | x | x |   |
+6| o | o | x | o | x | x | x | x |
+7| o | o | o | x | x | x | x | x |
+8| o | o | o | o | o | o | x | x |
+**********************
+
+AI just moved! Selected H8
+**********************
+Score:   Black - 16   White - 47
+ | A | B | C | D | E | F | G | H |
+1| o | o | o | o | o | o | o | o |
+2| o | o | o | o | o | o | x | o |
+3| o | o | o | o | o | o | x | o |
+4| o |   | x | o | o | x | o | o |
+5| o | o | x | x | o | o | o | o |
+6| o | o | x | o | x | x | o | x |
+7| o | o | o | x | x | o | x | x |
+8| o | o | o | o | o | o | x | x |
+**********************
+
+No valid moves for player :( Skipped turn
+**********************
+Score:   Black - 16   White - 47
+ | A | B | C | D | E | F | G | H |
+1| o | o | o | o | o | o | o | o |
+2| o | o | o | o | o | o | x | o |
+3| o | o | o | o | o | o | x | o |
+4| o |   | x | o | o | x | o | o |
+5| o | o | x | x | o | o | o | o |
+6| o | o | x | o | x | x | o | x |
+7| o | o | o | x | x | o | x | x |
+8| o | o | o | o | o | o | x | x |
+**********************
+
+AI just moved! Selected B2
+**********************
+Score:   Black - 14   White - 50
+ | A | B | C | D | E | F | G | H |
+1| o | o | o | o | o | o | o | o |
+2| o | o | o | o | o | o | x | o |
+3| o | o | o | o | o | o | x | o |
+4| o | o | o | o | o | x | o | o |
+5| o | o | o | x | o | o | o | o |
+6| o | o | x | o | x | x | o | x |
+7| o | o | o | x | x | o | x | x |
+8| o | o | o | o | o | o | x | x |
+**********************
+
+No valid moves for player :( Skipped turn
+**********************
+Score:   Black - 14   White - 50
+ | A | B | C | D | E | F | G | H |
+1| o | o | o | o | o | o | o | o |
+2| o | o | o | o | o | o | x | o |
+3| o | o | o | o | o | o | x | o |
+4| o | o | o | o | o | x | o | o |
+5| o | o | o | x | o | o | o | o |
+6| o | o | x | o | x | x | o | x |
+7| o | o | o | x | x | o | x | x |
+8| o | o | o | o | o | o | x | x |
+**********************
+
+No valid moves for the AI. Skipping turn
+**********************
+Score:   Black - 14   White - 50
+ | A | B | C | D | E | F | G | H |
+1| o | o | o | o | o | o | o | o |
+2| o | o | o | o | o | o | x | o |
+3| o | o | o | o | o | o | x | o |
+4| o | o | o | o | o | x | o | o |
+5| o | o | o | x | o | o | o | o |
+6| o | o | x | o | x | x | o | x |
+7| o | o | o | x | x | o | x | x |
+8| o | o | o | o | o | o | x | x |
+**********************
+
+WHITE is the winner!
